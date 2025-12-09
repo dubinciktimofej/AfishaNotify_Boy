@@ -1,0 +1,379 @@
+[
+  {
+    "city_slug": "rnd",
+    "title": "Александр Малинин",
+    "venue": "Неизвестная площадка",
+    "url": "https://rnd.kassir.ru/koncert/aleksandr-malinin-5bbc85877c8ea",
+    "date_iso": "2026-02-23",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 23
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Григорий Лепс",
+    "venue": "КСК Экспресс",
+    "url": "https://rnd.kassir.ru/koncert/grigoriy-leps",
+    "date_iso": "2026-02-11",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 11
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Дима Билан",
+    "venue": "Эмбарго",
+    "url": "https://rnd.kassir.ru/koncert/dima-bilan-26",
+    "date_iso": "2026-05-29",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 29
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Стас Михайлов",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/kongress-holl-dgtu/stas-mihaylov_2026-01-07",
+    "date_iso": "2026-01-07",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Зайнаб Махаева и Патимат Расулова",
+    "venue": "Ресторан Палладио Холл",
+    "url": "https://rnd.kassir.ru/koncert/zaynab-mahaeva-i-patimat-rasulova",
+    "date_iso": "2026-01-24",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 24
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "TRIP FESTIVAL 2026",
+    "venue": "Эмбарго",
+    "url": "https://rnd.kassir.ru/koncert/trip-festival-2026",
+    "date_iso": "2026-07-23",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 23
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Северный Флот",
+    "venue": "ДК им. Курчатова г. Волгодонск",
+    "url": "https://rnd.kassir.ru/koncert/dk-im-kurchatova-g-volgodonsk/severnyiy-flot_2026-05-20",
+    "date_iso": "2026-05-20",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Мари Краймбрери",
+    "venue": "КСК Экспресс",
+    "url": "https://rnd.kassir.ru/koncert/mari-kraymbreri",
+    "date_iso": "2026-03-05",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Александр Розенбаум",
+    "venue": "РАТД им. М. Горького - Большая сцена",
+    "url": "https://rnd.kassir.ru/koncert/ratd-imeni-maksima-gorkogo/aleksandr-rozenbaum_2026-03-14",
+    "date_iso": "2026-03-14",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 14
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Дима Билан",
+    "venue": "RED Arena Сочи",
+    "url": "https://rnd.kassir.ru/koncert/dima-bilan",
+    "date_iso": "2026-02-22",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 22
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Игорь Николаев",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/kongress-holl-dgtu/igor-nikolaev_2026-02-16",
+    "date_iso": "2026-02-16",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 16
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Стас Михайлов",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/kongress-holl-dgtu/stas-mihaylov_2026-01-08",
+    "date_iso": "2026-01-08",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 8
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Елена Ваенга",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/elena-vaenga",
+    "date_iso": "2026-03-07",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Хабиб",
+    "venue": "Неизвестная площадка",
+    "url": "https://rnd.kassir.ru/koncert/habib",
+    "date_iso": "2026-01-06",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 6
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Мурат Гамидов. Новогодняя ночь",
+    "venue": "Ресторан Палладио Холл",
+    "url": "https://rnd.kassir.ru/koncert/murat-gamidov-novogodnyaya-noch",
+    "date_iso": "2025-12-31",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 31
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Легендарные хиты Русского рока на виолончелях/ Magic Cellos band",
+    "venue": "Неизвестная площадка",
+    "url": "https://rnd.kassir.ru/koncert/magic-cellos-band-mirovyie-rok-hityi-na-violonchelyah-3",
+    "date_iso": "2026-01-14",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 14
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Меги Гогитидзе",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/megi-gogitidze-5#2792502",
+    "date_iso": "2026-02-14",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 14
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Стас Пьеха",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/kongress-holl-dgtu/stas-peha_2026-01-02",
+    "date_iso": "2026-01-02",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 2
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "ANNA ASTI",
+    "venue": "Эмбарго",
+    "url": "https://rnd.kassir.ru/koncert/anna-asti--anna-asti",
+    "date_iso": "2026-06-12",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 12
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Уральские Пельмени. Новогоднее (г. Сочи)",
+    "venue": "RED Arena Сочи",
+    "url": "https://rnd.kassir.ru/koncert/red-arena-sochi-2/uralskie-pelmeni-novogodnee-g-sochi_2026-01-23",
+    "date_iso": "2026-01-23",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 23
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Олег Газманов",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/kongress-holl-dgtu/oleg-gazmanov_2026-01-31",
+    "date_iso": "2026-01-31",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 31
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Уральские Пельмени. Новогоднее (г. Сочи)",
+    "venue": "Летний театр в парке им. Фрунзе",
+    "url": "https://rnd.kassir.ru/koncert/letniy-teatr-v-parke-im-frunze-3/uralskie-pelmeni-novogodnee-g-sochi_2026-01-24",
+    "date_iso": "2026-01-24",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 24
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Александр Розенбаум",
+    "venue": "РАТД им. М. Горького - Большая сцена",
+    "url": "https://rnd.kassir.ru/koncert/ratd-imeni-maksima-gorkogo/aleksandr-rozenbaum_2026-03-13",
+    "date_iso": "2026-03-13",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 13
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Олег Газманов",
+    "venue": "КЗ Олимп г. Таганрог",
+    "url": "https://rnd.kassir.ru/koncert/taganrog/oleg-gazmanov_2026-02-02",
+    "date_iso": "2026-02-02",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 2
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Стас Михайлов",
+    "venue": "Неизвестная площадка",
+    "url": "https://rnd.kassir.ru/koncert/stas-mihaylov-narodnyiy-korporativ",
+    "date_iso": "2026-01-07",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Xolidayboy",
+    "venue": "КСК Экспресс",
+    "url": "https://rnd.kassir.ru/koncert/xolidayboy-21",
+    "date_iso": "2025-12-22",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 22
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Стас Пьеха",
+    "venue": "Неизвестная площадка",
+    "url": "https://rnd.kassir.ru/koncert/stas-peha",
+    "date_iso": "2026-01-02",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 2
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Любовь Успенская",
+    "venue": "Конгресс-холл ДГТУ",
+    "url": "https://rnd.kassir.ru/koncert/kongress-holl-dgtu/lyubov-uspenskaya-g-rostov-na-donu_2026-02-21",
+    "date_iso": "2026-02-21",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 21
+      }
+    ]
+  },
+  {
+    "city_slug": "rnd",
+    "title": "Симфо-рок",
+    "venue": "Музыкальный театр - Большая Сцена",
+    "url": "https://rnd.kassir.ru/koncert/simfo-rock",
+    "date_iso": "2026-02-03",
+    "tickets": [
+      {
+        "name": "Входной билет",
+        "price": 3
+      }
+    ]
+  }
+]
